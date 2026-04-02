@@ -1,4 +1,4 @@
-# AQI-Prediction-ARIMA-LSTM
+# AQI-Forecasting-ARIMA-LSTM
 Comparative AQI prediction and forecasting using ARIMA and LSTM models with Power BI dashboard.
 
 ## Overview
